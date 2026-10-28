@@ -1,6 +1,6 @@
 cask "pagerbit" do
-  version "0.11.0"
-  sha256 "7513a4434351f67286c863e9ea67b608eada72b73aa279e9aed1afb3996974ee"
+  version "0.12.0"
+  sha256 "5491af70afa8f4d0429f52aa38fc8f3a3674c29ee51089e49624159f33550eaf"
 
   url "https://github.com/ercinio/pagerbit/releases/download/v#{version}/Pagerbit-#{version}.dmg"
   name "Pagerbit"
